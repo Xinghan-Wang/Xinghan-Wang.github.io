@@ -1,0 +1,14 @@
+{
+  "name": "academic-homepage",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@11.25.0",
+  "engines": { "node": ">=24.12.0" },
+  "scripts": { "dev": "astro dev", "build": "astro build", "preview": "astro preview" },
+  "devDependencies": {
+    "astro": "^6.0.0",
+    "tailwindcss": "^4.1.0",
+    "@tailwindcss/vite": "^4.1.0"
+  }
+}
